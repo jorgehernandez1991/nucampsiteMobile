@@ -20,6 +20,7 @@ function RenderCampsite({campsite}) {
     return <View />;
 }
 
+
 class CampsiteInfo extends Component {
 
     constructor(props) {
