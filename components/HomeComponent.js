@@ -22,6 +22,7 @@ function RenderItem({item}) {
     return <View />;
 }
 
+
 class Home extends Component {
 
     constructor(props) {
